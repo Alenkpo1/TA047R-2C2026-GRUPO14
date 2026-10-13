@@ -1,0 +1,25 @@
+# Entornos virtuales de Python
+.venv/
+env/
+venv/
+ENV/
+
+# Byte-code y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Checkpoints y temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de planificación interna
+PLAN.md
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
