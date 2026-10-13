@@ -5,11 +5,11 @@
 **Ciudad Asignada (Ej. 2):** Toronto  
 ---
 ## Integrantes del Grupo
-* **Calandria, Alén Santiago**
-* **Szinvelski, Sol Yohara**
-* **Garay Alvarado, Gustavo Alfredo**
-* **Sosa, Matias**
-* **Fontanals Layos, Oriol**
+* **Calandria, Alén Santiago 112103**
+* **Szinvelski, Sol Yohara 112985**
+* **Garay Alvarado, Gustavo Alfredo .intercambio-02**
+* **Sosa, Matias 113352**
+* **Fontanals Layos, Oriol .intercambio-03**
 ---
 ## Contenido del Repositorio
 El repositorio está organizado conforme a las pautas de entrega del Trabajo Práctico:
